@@ -3,13 +3,13 @@
   "version": "1.0",
   "manifest_version": 1,
   "author": "Codex",
-  "homepage_url": "https://VVinged1.github.io/odyssey_initiative/",
-  "icon": "https://VVinged1.github.io/odyssey_initiative/logo.png?v=1.0",
+  "homepage_url": "https://VVinged1.github.io/Odyssey_Initiative/",
+  "icon": "https://VVinged1.github.io/Odyssey_Initiative/logo.png?v=1.0",
   "description": "Shared initiative tracker with manual values, next token, map focus, and d20 + Reaction rolling",
   "action": {
     "title": "Odyssey Initiative",
-    "icon": "https://VVinged1.github.io/odyssey_initiative/icon.svg?v=1.0",
-    "popover": "https://VVinged1.github.io/odyssey_initiative/index.html?v=1.0",
+    "icon": "https://VVinged1.github.io/Odyssey_Initiative/icon.svg?v=1.0",
+    "popover": "https://VVinged1.github.io/Odyssey_Initiative/index.html?v=1.0",
     "height": 220,
     "width": 340
   }
